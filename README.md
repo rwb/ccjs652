@@ -31,3 +31,24 @@
 * 12/4 - Diversion: Wilson and Hoge (2013; [link](https://journals.sagepub.com/doi/full/10.1177/1541204012473132)); policy paper is due today.
 * 12/11 - School resource officers: Gottfredson et al. (2020; [link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1745-9133.12512))
 * 12/18 - Final exam
+
+#### Mid-Term Practice Questions
+
+* Short-answer questions
+  
+1. Historically, there have been two major types of waiver: (1) legislative; and (2) judicial. Provide a one-sentence description of each type of waiver. The New York Juvenile Offender Law discussed in class is an example of which waiver type?
+2. Describe the common-law rule that historically governed the legal responsibility of children accused of crimes.
+3. Why is the issue of *mens rea* particularly relevant for juveniles charged with crimes?
+4. Suppose we do a study and find that kids who receive residential placement are more likely to offend in the future. Does this emonstrate that sanctions are criminogenic? Why or why not?
+5. In Gerald Gault’s case, the Arizona Supreme Court concluded that Gault was entitled to due process protections in the juvenile court. With that in mind, why did Gault appeal that court’s decision to the U.S. Supreme Court?
+6. In Roper v. Simmons (2005), Justice Kennedy discussed the deterrent effects of the death penalty for juvenile offenders. What did he conclude?
+7. One issue that arose in the Kent decision was the judge’s statement that he had conducted a “full investigation” prior to Kent’s waiver. How did the Supreme Court react to this statement?
+8. Associate Justice Hugo Black wrote a concurring opinion in the Gault case. How did his position differ from that of the other justices in the Court’s majority?
+9. Manski and Nagin’s (1999) study compared recidivism rates for Utah juveniles who received residential placement and juveniles who received probation. What did the study show?
+10. Identify and describe the three main aspects of socially responsible decisionmaking. How did the research discussed in class measure these characteristics?
+
+Essay Questions
+
+1. Labeling and deterrence theories make opposing predictions about the effects of sanctions on future criminal behavior. Gottfredson and Hirschi's general theory of crime makes its own prediction. Describe the reasoning underlying each theory’s predictions for how sanctions might affect juveniles. Describe the major strengths and weaknesses of research in this literature.
+2. Many scholars have argued that the U.S. Supreme Court’s decision in Roper v. Simmons (2005) reaffirms the bright line separating the juvenile and adult criminal justice systems. Do you agree with this statement? Why or why not?
+3. Gerald Gault's case serves as an example of how an adult might be sentenced more leniently than a juvenile charged with the same crime. Yet many scholars are concerned about the potential harshness of penalties for juveniles waived up to the adult system. Describe the core empirical issues that arise in the literature on waiver and transfer. Outline what you believe to be an important question or unresolved issue in this literature and sketch out how you might design a study to address that issue. Be sure to explain the strengths and weaknesses of your proposed approach.
