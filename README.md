@@ -53,7 +53,7 @@
 15. Augustyn and Loughran relied on the Pathways data to estimate several treatment effects. What treatment effects were they trying to estimate? What benefits does the Pathways to Desistance dataset offer in terms of measuring these treatment effects?
 16. What did Izzo and Ross (1989) conclude about the effects of cognitive vs. noncognitive treatment programming? Briefly describe the evidence on which their conclusion is based.
 17. Singer and McDowall (1989) noted important variation in the implementation of the JO Law in New York. What did they find?
-18. 
+18. What outcome measures were used in the Robinson and Kurlychek (2019) study? In what respect were their results contrary to what they expected?
 
 
 Essay Questions
