@@ -39,7 +39,7 @@
 1. Historically, there have been two major types of waiver: (1) legislative; and (2) judicial. Provide a one-sentence description of each type of waiver. The New York Juvenile Offender Law discussed in class is an example of which waiver type?
 2. Describe the common-law rule that historically governed the legal responsibility of children accused of crimes.
 3. Why is the issue of *mens rea* particularly relevant for juveniles charged with crimes?
-4. Suppose we do a study and find that kids who receive residential placement are more likely to offend in the future. Does this emonstrate that sanctions are criminogenic? Why or why not?
+4. Suppose we do a study and find that kids who receive residential placement are more likely to offend in the future. Does this demonstrate that sanctions are criminogenic? Why or why not?
 5. In Gerald Gault’s case, the Arizona Supreme Court concluded that Gault was entitled to due process protections in the juvenile court. With that in mind, why did Gault appeal that court’s decision to the U.S. Supreme Court?
 6. In Roper v. Simmons (2005), Justice Kennedy discussed the deterrent effects of the death penalty for juvenile offenders. What did he conclude?
 7. One issue that arose in the Kent decision was the judge’s statement that he had conducted a “full investigation” prior to Kent’s waiver. How did the Supreme Court react to this statement?
@@ -49,8 +49,12 @@
 11. What changes in age of majority policies did Cauffman et al. (2017) recommend? On what basis did they make those recommendations?
 12. If two groups are well matched on a propensity score, what does that imply about group equivalence on pre-treatment characteristics?
 13. What major hypothesis of the labeling perspective is most closely informed by conflict theory?
-14. Kurlycheck and Johson (2010) made the following statement: "A core concern in research examining transferred juveniles is that selec- tion effects are likely to produce a pool of juvenile offenders that are systematically different from a random sample of young adult offenders (Smith and Paternoster, 1990)." Why did they cite Smith and Paternoster (1990) to make this point?
+14. Kurlycheck and Johson (2010) made the following statement: "A core concern in research examining transferred juveniles is that selection effects are likely to produce a pool of juvenile offenders that are systematically different from a random sample of young adult offenders (Smith and Paternoster, 1990)." Why did they cite Smith and Paternoster (1990) to make this point?
 15. Augustyn and Loughran relied on the Pathways data to estimate several treatment effects. What treatment effects were they trying to estimate? What benefits does the Pathways to Desistance dataset offer in terms of measuring these treatment effects?
+16. What did Izzo and Ross (1989) conclude about the effects of cognitive vs. noncognitive treatment programming? Briefly describe the evidence on which their conclusion is based.
+17. Singer and McDowall (1989) noted important variation in the implementation of the JO Law in New York. What did they find?
+18. 
+
 
 Essay Questions
 
@@ -61,3 +65,4 @@ Essay Questions
 5. Singer and McDowall concluded that their homicide results provided no support for the idea that the JO Law reduced juvenile crime. Considering the stregnths and weaknesses of their methodology, offer your own methodological assessment of the evidence. In what respects are Singer and McDowall's conclusions supported  and in what respects might their conclusions be questioned?
 6. Considering the meta-analytic studies we discussed this semester, what would you consider to be the best practices for meta analysis of juvenile rehabilitation programs? How do the studies we reviewed in class measure up to those best practices?
 7. Consider the strengths and weaknesses of the Loefler and Chalfin (2017) study in light of the arguments made by Cauffman et al. (2017) and Farrington et al. (2017). How could the Loefler and Chalfin study be further strengthened?
+8. Kurlychek and Johnson (2010) observed that juvenile status could be an aggravating or a mitigating factor. Explain what they meant by this.
